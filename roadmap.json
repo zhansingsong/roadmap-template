@@ -1,0 +1,11 @@
+{
+  "author": [
+    {
+      "name":"Your name", 
+      "homepage":"https://github.com/"
+    }
+  ],
+  "dependencies": {
+    "roadmapedu/example": "latest"
+  }
+}
