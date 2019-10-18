@@ -1,0 +1,298 @@
+{
+  "homepage": "https://github.com/roadmapedu/roadmap-for-php-developer",
+  "title": "PHP 软件开发工程师",
+  "logo": "/img/fe.png",
+  "theme": "#2ebf80",
+  "stages": [
+    [
+      {
+        "name": "计算机科学与技术",
+        "desc": "获得 Computer Science 学位是迈入软件开发工程师的第一步",
+        "link": "/career/computer-science"
+      }
+    ],
+    [
+      {
+        "name": "HTML",
+        "desc": "用于创建网页的标准标记语言",
+        "link": "https://developer.mozilla.org/zh-CN/docs/Web/HTML"
+      },
+      {
+        "name": "CSS",
+        "desc": "用来为结构化文档添加样式的语言",
+        "link": "https://developer.mozilla.org/zh-CN/docs/Learn/CSS"
+      },
+      {
+        "name": "JAVASCRIPT",
+        "desc": "用来添加交互功能的编程语言",
+        "link": "https://www.tutorialspoint.com/unix/index.htm"
+      }
+    ],
+    [
+      {
+        "name": "PhotoShop",
+        "desc": "地球上最强大的图形处理软件，前端工程师必备切图软件",
+        "link": "http://www.photoshop.com/products/photoshop"
+      },
+      {
+        "name": "Chrome Dev Tools",
+        "desc": "最友好的浏览器调试工具",
+        "link": "https://developer.chrome.com/devtools"
+      },
+      {
+        "name": "Git",
+        "desc": "Git 是一种源代码版本控制软件",
+        "link": "https://git-scm.com/"
+      },
+      {
+        "name": "Visual Studio Code",
+        "desc": "VSCode 是微软推出的代码编辑器",
+        "link": "https://code.visualstudio.com/"
+      },
+      {
+        "name": "Fiddler",
+        "desc": "Windows 上超好用的 http 抓包工具",
+        "link": "http://www.telerik.com/fiddler"
+      },
+      {
+        "name": "Charles",
+        "desc": "Mac 上超好用的 http 抓包工具",
+        "link": "https://www.charlesproxy.com/"
+      }
+    ],
+    [
+      {
+        "name": "TypeScript",
+        "desc": "JavaScript 的超集，拥有类型检查和ECMAScript特性",
+        "link": "https://www.tslang.cn/docs/home.html"
+      },
+      {
+        "name": "ECMAScript6",
+        "desc": "JavaScript 增加版",
+        "link": "https://es6.ruanyifeng.com/"
+      },
+      {
+        "name": "SASS",
+        "desc": "成熟、稳定和强大的 CSS 扩展语言",
+        "link": "http://sass-lang.com/"
+      },
+      {
+        "name": "postCSS",
+        "desc": "一个用 JavaScript 工具和插件转换 CSS 代码的工具",
+        "link": "https://www.postcss.com.cn/"
+      }
+    ],
+    [
+      {
+        "name": "CommonJS",
+        "desc": "模块规范",
+        "link": "http://wiki.commonjs.org/wiki/Modules/1.0"
+      },
+      {
+        "name": "AMD",
+        "desc": "模块规范",
+        "link": "https://github.com/amdjs/amdjs-api/wiki/AMD"
+      },
+      {
+        "name": "Same-origin policy",
+        "desc": "同源策略",
+        "link": "https://developer.mozilla.org/zh-CN/docs/Web/Security/Same-origin_policy"
+      },
+      {
+        "name": "XSS",
+        "desc": "跨站脚本攻击",
+        "link": "https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%B6%B2%E7%AB%99%E6%8C%87%E4%BB%A4%E7%A2%BC"
+      },
+      {
+        "name": "CSRF",
+        "desc": "跨站请求伪造",
+        "link": "https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0"
+      },
+      {
+        "name": "BEM",
+        "desc": "CSS 规范",
+        "link": "http://getbem.com/introduction/"
+      },
+      {
+        "name": "OOCSS",
+        "desc": "CSS 规范",
+        "link": "https://bower.io/"
+      },
+      {
+        "name": "SMACSS",
+        "desc": "CSS 规范",
+        "link": "http://smacss.com/"
+      }
+    ],
+    [
+      {
+        "name": "Node.js",
+        "desc": "一个基于Chrome V8 引擎的JavaScript 运行环境",
+        "link": "http://nodejs.cn/"
+      },
+      {
+        "name": "npm",
+        "desc": "JavaScript 世界的包管理工具，并且是 Node.js 平台的默认包管理工具",
+        "link": "https://www.npmjs.cn/"
+      },
+      {
+        "name": "Yarn",
+        "desc": "快速、可靠、安全的依赖管理工具",
+        "link": "https://yarn.bootcss.com/"
+      },
+      {
+        "name": "Bower",
+        "desc": "一个客户端技术的软件包管理器",
+        "link": "https://bower.io/"
+      },
+      {
+        "name": "Babel",
+        "desc": "下一代JavaScript 语法的编译器",
+        "link": "https://www.babeljs.cn/"
+      }
+    ],
+    [
+      {
+        "name": "Webpack",
+        "desc": "一个现代 JavaScript 应用程序的静态模块打包工具",
+        "link": "https://www.webpackjs.com/"
+      },
+      {
+        "name": "Rollup",
+        "desc": "一款小巧的 Javascript 模块打包工具，更适合于库应用的构建工具",
+        "link": "https://rollupjs.org/guide/en/"
+      },
+      {
+        "name": "Gulp",
+        "desc": "一个基于流处理的自动化构建工具",
+        "link": "https://www.gulpjs.com.cn/"
+      },
+      {
+        "name": "Browserify",
+        "desc": "一个供浏览器环境使用的模块打包工具",
+        "link": "http://browserify.org/"
+      },
+      {
+        "name": "npm scripts",
+        "desc": "集成自定义脚本神器",
+        "link": "https://docs.npmjs.com/misc/scripts"
+      }
+    ],
+    [
+      {
+        "name": "React",
+        "desc": "用于构建用户界面的 JavaScript 库",
+        "link": "https://www.reactjscn.com/"
+      },
+      {
+        "name": "Vue",
+        "desc": "渐进式 JavaScript 框架",
+        "link": "https://vuejs.org/"
+      },
+      {
+        "name": "Angular",
+        "desc": "一个基于 TypeScript 的开源Web应用程序框架",
+        "link": "https://www.angularjs.net.cn/"
+      },
+      {
+        "name": "Redux",
+        "desc": "JavaScript 状态容器，提供可预测化的状态管理",
+        "link": "https://redux.js.org/"
+      },
+      {
+        "name": "Mobx",
+        "desc": "简单、可扩展的状态管理",
+        "link": "https://cn.mobx.js.org/"
+      },
+      {
+        "name": "Vuex",
+        "desc": "一个专为 Vue.js 应用程序开发的状态管理模式",
+        "link": "https://vuex.vuejs.org/zh/guide/"
+      },
+      {
+        "name": "RxJS",
+        "desc": "使用 Observables 的响应式编程的库",
+        "link": "https://cn.rx.js.org/"
+      },
+      {
+        "name": "Next.js",
+        "desc": "一个轻量级的 React 服务端渲染应用框架",
+        "link": "https://nextjs.frontendx.cn/docs/"
+      },
+      {
+        "name": "Nuxt.js",
+        "desc": "一个基于 Vue 服务端渲染应用框架",
+        "link": "https://github.com/nuxt/nuxt.js"
+      },
+      {
+        "name": "Universal",
+        "desc": "一个基于 Angular 服务端渲染应用框架",
+        "link": "https://angular.cn/guide/universal"
+      },
+      {
+        "name": "css Modules",
+        "desc": "一个流行的，用于模块化和组合CSS 的系统",
+        "link": "https://github.com/css-modules/css-modules"
+      }
+    ],
+    [
+      {
+        "name": "React Native",
+        "desc": "使用 JavaScript 也能编写原生移动应用的框架",
+        "link": "https://reactnative.cn/"
+      },
+      {
+        "name": "Flutter",
+        "desc": "谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面",
+        "link": "https://flutterchina.club/"
+      },
+      {
+        "name": "Weex",
+        "desc": "使用流行的 Web 开发体验来开发高性能原生应用的框架",
+        "link": "https://weex.apache.org/zh/guide/introduction.html"
+      },
+      {
+        "name": "Electron",
+        "desc": "使用 JavaScript, HTML 和 CSS 构建跨平台的桌面应用",
+        "link": "https://electronjs.org/"
+      },
+      {
+        "name": "Web Assembly",
+        "desc": "一个可移植、体积小、加载快并且兼容 Web 的全新格式",
+        "link": "http://webassembly.org.cn/"
+      }
+    ],
+    [
+      {
+        "name": "Jest",
+        "desc": "提供一套完整集成的“零配置” 测试体验",
+        "link": "https://jestjs.io/"
+      },
+      {
+        "name": "Enzyme",
+        "desc": "让 React 测试变得更简单",
+        "link": "https://airbnb.io/enzyme/"
+      },
+      {
+        "name": "Cypress",
+        "desc": "一个开箱即用的 E2E 测试框架",
+        "link": "https://www.cypress.io/"
+      },
+      {
+        "name": "AVA",
+        "desc": "未来的测试运行器",
+        "link": "https://github.com/avajs/ava"
+      },
+      {
+        "name": "Karma",
+        "desc": "一个基于 Node.js 的 JavaScript 测试执行过程管理工具",
+        "link": "https://karma-runner.github.io/latest/index.html"
+      },
+      {
+        "name": "Jasmine",
+        "desc": "一个针对 JavaScript 的行为驱动开发的测试框架",
+        "link": "https://jasmine.github.io/"
+      }
+    ]
+  ]
+}
